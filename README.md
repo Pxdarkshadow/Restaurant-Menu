@@ -21,12 +21,12 @@ This is a lightweight HTML-only webpage that mimics the menu experience from the
 ```
 
 /Restaurant\_Menu/
-├── images/
+├── menu_file/
+│   ├── restaurant_menu.html
 │   ├── logo.jpg
 │   ├── pizza.jpeg
 │   ├── burger.jpg
 │   └── ramen.jpg
-├── index.html
 └── README.md
 
 ```
